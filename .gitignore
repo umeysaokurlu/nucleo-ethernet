@@ -1,0 +1,12 @@
+# --- Istenmeyen Derleme Dosyalari ---
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.out
+*.o
+*.d
+.settings/
